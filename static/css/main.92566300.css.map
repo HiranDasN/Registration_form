@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.92566300.css","mappings":"AAAA,IACI,eACJ,CACA,IACA,eACA,CACA,IACI,qBACJ,CACA,KACI,eAEJ","sources":["Components/Form.css"],"sourcesContent":[".d1{\r\n    margin-top: 30px;\r\n}\r\n.b1{\r\nmargin-top: 15px;\r\n}\r\n.fs{\r\n    background-color: white\r\n}\r\n.md1{\r\n    margin-top: 50px;\r\n   \r\n}"],"names":[],"sourceRoot":""}
